@@ -11,4 +11,4 @@ Here is some text
 
 *GOOD VIBES ONLY*
 
-![](/images/life-expectancy.png)
+![](/images/will_pro_pic.jpg)
