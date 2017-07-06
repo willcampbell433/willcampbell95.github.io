@@ -7,8 +7,8 @@ title: Hello World!
 
 Here is some text
 
-## THis is a slighlty smaller header, h2. We're writing markdown
+## This is a slighlty smaller header, h2. We're writing markdown
 
-*SICK*
+*GOOD VIBES ONLY*
 
-![Do you really want to live forever?](/images/life-expectancy.png)
+![](/images/life-expectancy.png)
